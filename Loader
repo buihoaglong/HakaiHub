@@ -6,7 +6,7 @@ local plr = Players.LocalPlayer
 
 function GetGame()
     local ID = game.PlaceId
-    if ID == 86639052909924 then
+    if ID == 73956553001240 then
         return "testgame.lua"
 
     elseif ID == 111347281646457 then
